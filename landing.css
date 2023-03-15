@@ -1,0 +1,268 @@
+nav{
+    background-color: rgb(48, 48, 220);
+    min-height: 80px;
+   
+
+}
+*{
+     margin:0px;
+    padding:0px;
+}
+.container{
+    width:90%;
+   
+    margin:auto;
+    height:70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+ul li{
+    list-style: none;
+    color:rgb(147, 143, 143);
+    margin-right: 20px;
+    font-size: 20px;
+}
+.home li{
+    color:white;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    color:white;
+    font-size: 30px;
+    position: relative;
+}
+ul{
+    display: flex;
+    position: absolute;
+    left:250px;
+}
+.menubutton{
+   margin-right: 25px;
+    border:1px solid ghostwhite;
+    border-radius: 50%;
+    padding:8px;
+    color:white;
+} 
+.main1{
+    background-color:rgb(71, 71, 221);
+    height:700px;
+    position: relative;
+}
+.container2{
+    width:90%;
+   
+ align-items: center;
+    display: flex;
+   top: 80px;
+   left:5%;
+position: absolute;
+justify-content: space-between;
+
+   
+}
+
+img{
+    width:696px;
+    height:556px;
+    border-radius: 15px;
+
+}
+.text{
+    width:530px;
+    margin-left: 50px;
+    color:white;
+}
+.normaltext{
+    color:rgb(147, 143, 143);
+    margin-top:12px;
+}
+.boldtext{
+    font-size: 40px;
+}
+.buttons{
+    position: absolute;
+    left:5%;
+    align-items: center;
+    margin-top: 12px;
+}
+.start{
+    padding:15px 30px;
+    color:blue;
+    border:none;
+    border-radius: 8px;
+}
+.watch{
+    color:white;
+}
+.ourstoryimg img{
+width:600px;
+height: 500px;
+}
+.container3{
+    position: absolute;
+    left:5%;
+    width: 90%;
+   
+    height: 700px;
+    top:900px;
+    display:flex;
+    justify-content: space-between;
+    align-items: start;
+
+}
+.ourstory{
+   
+    width:600px;
+}
+h3{
+    margin-top: 40px;
+}
+.bld{
+    font-size: 45px;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+.storybuttons{
+    width:450px;
+   
+    border-radius: 10px;
+}
+.storybuttons button{
+    padding:12px 24px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    padding:10px 15px;
+}
+.s{
+    background-color: blue;
+    color:white;
+}
+.otext{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.otext2{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.container4{
+    position: absolute;
+    left:5%;
+    width: 90%;
+   
+    top:1500px;
+    height:950px;
+    text-align: center;
+
+}
+.servicebutton{
+    color:blue;
+    border: 2px solid blue;
+    border-radius: 18px;
+    padding:13px 26px;
+    font-weight: bold;
+    background-color: white;
+    margin-bottom:20px ;
+}
+h2{
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.servicetext{
+    color:grey;
+}
+.servicesheading{
+    width:450px;
+   
+    margin: auto;
+}
+.servicesheading h2{
+    font-size: 40px;
+}
+.boxes{
+    display: flex;
+    text-align: start; 
+    
+    justify-content:space-around;
+}
+.boxes i{
+    font-size:45px ;
+    color:blue;
+    padding:6px;
+    border:solid 1px blue;
+    border-radius: 50%;
+}
+.boxes div{
+    width:375px;
+    height:250px;
+    
+    padding: 20px;
+    border:1px solid grey;
+    border-radius: 15px;
+
+}
+.boxes2{
+    display: flex;
+    text-align: start; 
+    
+    justify-content:space-around;
+    margin-top:20px;
+
+}
+.boxes2 div{
+    width:375px;
+    height:250px;
+   
+    padding: 20px;
+    border:1px solid grey;
+    border-radius: 15px;
+
+}
+.boxes, i ,p{
+    margin-top: 20px;
+}
+.boxes_bold_text{
+    font-size: 23px;
+    font-weight: bold;
+}
+.boxes2{
+    display: flex;
+    text-align: start;
+}
+.boxes2 i{
+    font-size:45px ;
+    color:blue;
+    padding:6px;
+    border:solid 1px blue;
+    border-radius: 50%;
+
+}
+/* .refresh{
+    width:400px;
+    height:300px;
+    background-color: beige;
+}
+.bootstrap{
+    background-color: aquamarine;
+    width:400px;
+    height:300px;
+} */
+.container5{
+    position: absolute;
+    top:2400px;
+    left:5%;
+    width: 90%;
+    text-align: center;
+   
+    height:700px;
+}
+iframe{
+    margin-top: 50px;
+}
